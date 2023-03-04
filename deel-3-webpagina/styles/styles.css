@@ -23,7 +23,7 @@ header{
     display: flex;
     gap: 40px;
 }
-.button-group list:hover{color: grey; cursor:pointer;}
+.button-group list:hover{color: lightgray; cursor:pointer;}
 .button-group list:active{color: #151E3F; cursor:pointer;}
 
 
